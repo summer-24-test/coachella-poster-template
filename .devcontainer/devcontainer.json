@@ -4,8 +4,8 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "ms-vscode.live-server",
-                "ms-azuretools.vscode-docker" // Example of another extension
+                "ms-vscode.live-server"
+
             ],
             "settings": {
                 "editor.fontSize": 14
